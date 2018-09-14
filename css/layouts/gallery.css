@@ -60,7 +60,9 @@ h1,h2,h3,h4,h5,h6 {
     .photo-box aside span {
         color: #aaa;
     }
-
+.shadows {
+  transform: translateY(-212px);
+}
         .photo-box aside span a {
             color: #ccc;
             text-decoration: none;
