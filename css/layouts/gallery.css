@@ -63,6 +63,28 @@ h1,h2,h3,h4,h5,h6 {
 .shadows {
   transform: translateY(-212px);
 }
+.people {
+  transform: translateY(-99px);
+}
+.scream {
+  transform: translateY(-422px);
+}
+.baby {
+  transform: translateY(-280px);
+}
+.tankevurpa {
+  transform: translateY(-180px);
+}
+.light {
+  transform: translateY(-585px);
+}
+.noheaven {
+  transform: translateY(-322px);
+}
+.diver {
+  transform: translateY(-180px);
+}
+
         .photo-box aside span a {
             color: #ccc;
             text-decoration: none;
